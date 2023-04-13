@@ -1,0 +1,22 @@
+package edu.miu.waa.lab5.repository;
+
+import edu.miu.waa.lab5.domain.PostUser;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.CrudRepository;
+
+import java.util.List;
+
+public interface UserRepository extends CrudRepository<PostUser, Long> {
+    List<PostUser> findAll();
+
+    PostUser findById(long id);
+
+    @Query(value = "SELECT u.* FROM post_user u WHERE (SELECT COUNT(p.*) FROM POST p WHERE p.id_user=u.id)>1", nativeQuery = true)
+    List<PostUser> findUsersWithMoreThanOnePost();
+
+
+    @Query(value = "SELECT u.* FROM post_user u WHERE (SELECT COUNT(p.*) FROM POST p WHERE p.id_user=u.id)>:n", nativeQuery = true)
+    List<PostUser> findUsersWithMoreThanNPosts(int n);
+
+
+}

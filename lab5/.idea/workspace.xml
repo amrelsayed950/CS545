@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bb67860-6cd9-40c2-a232-32b5a11f51ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/main/java/edu/miu/waa/lab4/domain/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/src/main/java/edu/miu/waa/lab2/service/PostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/src/main/java/edu/miu/waa/lab2/service/PostServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/java/edu/miu/waa/lab4/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/java/edu/miu/waa/lab4/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/java/edu/miu/waa/lab4/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/java/edu/miu/waa/lab4/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/Lab1Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/aspect/LoggerAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/aspect/annotation/ExecutionTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/controller/CommentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/controller/PostController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/dto/CommentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/dto/PostDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/domain/dto/UserDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/helper/ListMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/repository/CommentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/repository/ExceptionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/repository/LoggerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/repository/PostRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/repository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/CommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/CommentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/ExceptionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/ExceptionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/LoggerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/LoggerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/PostService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/PostServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/UserCommandLineRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/target/classes/edu/miu/waa/lab2/service/UserServiceImpl.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NyPwXJ9UP4JgWFJEyKGf6M7Qyc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/amrelsayed/Desktop/WAP/labs/CS545/lab5/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "a69ca3b36237369d5f5c3d270b39daff",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/edu/miu/waa/lab2/service" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/edu/miu/waa/lab1/v2/" />
+      <recent name="$PROJECT_DIR$/src/main/java/edu/miu/waa/lab1/v2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.miu.waa.lab4.service.impl" />
+      <recent name="edu.miu.waa.lab4.config" />
+      <recent name="edu.miu.waa.lab2.domain.dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Lab1Application">
+    <configuration name="Lab1Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.miu.waa.lab4.Lab1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-security-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.miu.waa.lab5.Lab1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="labs" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="edu.miu.waa.lab5.Lab1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb67860-6cd9-40c2-a232-32b5a11f51ac" name="Changes" comment="" />
+      <created>1680633588542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680633588542</updated>
+      <workItem from="1680633590555" duration="4474000" />
+      <workItem from="1680640295628" duration="1798000" />
+      <workItem from="1680642905188" duration="230000" />
+      <workItem from="1680706984314" duration="627000" />
+      <workItem from="1680719803333" duration="2882000" />
+      <workItem from="1680722701360" duration="1775000" />
+      <workItem from="1680725183390" duration="598000" />
+      <workItem from="1680725792287" duration="21288000" />
+      <workItem from="1680811695669" duration="1813000" />
+      <workItem from="1680894127933" duration="24780000" />
+      <workItem from="1680994944450" duration="12922000" />
+      <workItem from="1681325048738" duration="10232000" />
+      <workItem from="1681412994280" duration="5859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
