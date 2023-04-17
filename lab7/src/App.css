@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-size: 0.98em;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 2em;
+}
+
+a {
+  color: #ff0000;
+}
+
+.post-box-container {
+  display: grid;
+  grid-template-columns: 25% 25% 25%;
+  grid-template-areas:
+    "post-box post-box post-box";
+  column-gap: 2%;
+  padding: 2%;
+}
+
+.post-changeName {
+  text-align: left;
+  margin-left: 2%;
+}
+
+.post-box {
+  border: solid 2px #385D8A;
+  padding: 10px;
+  text-align: left;
+  background-color: #4F81BD;
+  color: #ffffff;
+}
+
+.post-detail {
+  border: solid 2px #4F81BD;
+  margin-top: 15px;
+  width: 70%;
+  margin-left: 2%;
+}
