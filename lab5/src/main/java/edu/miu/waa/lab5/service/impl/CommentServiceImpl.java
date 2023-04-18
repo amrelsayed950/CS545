@@ -52,4 +52,9 @@ public class CommentServiceImpl implements CommentService {
             commentRepository.deleteById(id);
         }
     }
+
+@Override
+   public List<CommentDto> findByPostId(long id){
+        return commentRepository.findAllByPostId(id);
+    }
 }

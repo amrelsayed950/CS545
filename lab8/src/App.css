@@ -1,0 +1,70 @@
+.App {}
+
+body {
+  font-size: 0.98em;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 2em;
+}
+
+.field-validate {
+  color: red;
+}
+
+
+
+.postboxcontainer {
+  display: grid;
+  grid-template-columns: 25% 25% 25%;
+  grid-template-areas: "post-box post-box post-box";
+  column-gap: 2%;
+  padding: 2%;
+}
+
+.post-changeName {
+  text-align: left;
+  margin-left: 2%;
+}
+
+.post-box{
+  border: solid;
+  margin-bottom: 15px;
+
+}
+
+
+.card-link{
+  border: solid;
+  margin: 15px;
+
+}
+.post-detail {
+  border: solid 2px #4F81BD;
+  margin-top: 15px;
+  width: 70%;
+  margin-left: 2%;
+}
+
+
+
+
+
+
+
+form{
+  margin: 5px;
+}
+
+
+
+fieldset {
+max-width: 450px;
+margin: auto;
+border-radius: 10px;
+background-color: #E0E1FF;
+}
+
+legend {
+border: 2px solid gray;
+background-color: #F6F8F9;
+border-radius: 5px;
+}

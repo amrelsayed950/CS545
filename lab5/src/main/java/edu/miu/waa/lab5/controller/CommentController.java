@@ -25,6 +25,13 @@ public class CommentController {
     }
 
 
+    @GetMapping
+    public List<CommentDto> getCommentByPostId(@PathVariable long id){
+        return commentService.findByPostId(id);
+    }
+
+
+
     @PostMapping()
     @ResponseStatus(HttpStatus.CREATED)
     public void addComment(@RequestBody CommentDto c){

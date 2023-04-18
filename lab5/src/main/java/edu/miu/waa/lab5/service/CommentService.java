@@ -15,4 +15,5 @@ public interface CommentService {
     public void deleteComment(long id);
 
 
+    List<CommentDto> findByPostId(long id);
 }
